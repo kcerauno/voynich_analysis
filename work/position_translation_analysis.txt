@@ -1,0 +1,33 @@
+==================================================
+ Syntactic Positional Analysis of Translated Dialects 
+==================================================
+
+--- Translated Pair: [B] 'qo' <====> [A] 'okey' ---
+[B] qo: First on line: 005.9% | Last on line: 000.0%  (Total 17)
+[A] okey: First on line: 000.0% | Last on line: 005.3%  (Total 19)
+>>> BEHAVIOR MATCH: Both words share strongly similar spatial formatting rules.
+
+--- Translated Pair: [B] 'qo' <====> [A] 'okeol' ---
+[B] qo: First on line: 005.9% | Last on line: 000.0%  (Total 17)
+[A] okeol: First on line: 002.6% | Last on line: 007.9%  (Total 38)
+>>> BEHAVIOR MATCH: Both words share strongly similar spatial formatting rules.
+
+--- Translated Pair: [B] 'dy' <====> [A] 'kchy' ---
+[B] dy: First on line: 000.0% | Last on line: 036.0%  (Total 111)
+[A] kchy: First on line: 000.0% | Last on line: 007.7%  (Total 26)
+>>> BEHAVIOR MISMATCH: They mean the same thing conceptually, but are formatted differently.
+
+--- Translated Pair: [A] 'chol' <====> [B] 'ycheol' ---
+[A] chol: First on line: 004.3% | Last on line: 000.7%  (Total 281)
+[B] ycheol: First on line: 090.0% | Last on line: 000.0%  (Total 10)
+>>> BEHAVIOR MISMATCH: They mean the same thing conceptually, but are formatted differently.
+
+--- Translated Pair: [B] 'qo' <====> [A] 'ok' ---
+[B] qo: First on line: 007.6% | Last on line: 006.4%  (Total 4089)
+[A] ok: First on line: 016.6% | Last on line: 016.6%  (Total 615)
+>>> BEHAVIOR MISMATCH: They mean the same thing conceptually, but are formatted differently.
+
+--- Translated Pair: [A] 'ch' <====> [B] 'qot' ---
+[A] ch: First on line: 004.3% | Last on line: 011.8%  (Total 2143)
+[B] qot: First on line: 004.9% | Last on line: 007.7%  (Total 815)
+>>> BEHAVIOR MATCH: Both words share strongly similar spatial formatting rules.

@@ -1,0 +1,116 @@
+==================================================
+ Cipher Transformation Rule Analysis (A -> B) 
+==================================================
+
+Analyzing transformation vectors for Top Words...
+
+Alignment: daiin      -> qoteol     (Sim: 1.00)
+  Shared Core: ''
+  Rule: Complete Transformation
+
+Alignment: chol       -> daiiin     (Sim: 1.00)
+  Shared Core: ''
+  Rule: Complete Transformation
+
+Alignment: chor       -> oram       (Sim: 1.00)
+  Shared Core: 'or'
+  Rule: Prefix: ch -> [None] | Suffix: [None] -> am
+
+Alignment: s          -> olsheey    (Sim: 1.00)
+  Shared Core: 's'
+  Rule: Prefix: [None] -> ol | Suffix: [None] -> heey
+
+Alignment: dy         -> ytain      (Sim: 1.00)
+  Shared Core: 'y'
+  Rule: Prefix: d -> [None] | Suffix: [None] -> tain
+
+Alignment: shol       -> daiiin     (Sim: 1.00)
+  Shared Core: ''
+  Rule: Complete Transformation
+
+Alignment: sho        -> oiiin      (Sim: 1.00)
+  Shared Core: 'o'
+  Rule: Prefix: sh -> [None] | Suffix: [None] -> iiin
+
+Alignment: chy        -> dchey      (Sim: 1.00)
+  Shared Core: 'ch'
+  Rule: Prefix: [None] -> d | Suffix: y -> ey
+
+Alignment: ol         -> lchal      (Sim: 1.00)
+  Shared Core: 'l'
+  Rule: Prefix: o -> [None] | Suffix: [None] -> chal
+
+Alignment: cthy       -> daiiin     (Sim: 1.00)
+  Shared Core: ''
+  Rule: Complete Transformation
+
+Alignment: or         -> olsheey    (Sim: 1.00)
+  Shared Core: 'o'
+  Rule: Suffix: r -> lsheey
+
+Alignment: dar        -> chockhy    (Sim: 1.00)
+  Shared Core: ''
+  Rule: Complete Transformation
+
+Alignment: dain       -> chtal      (Sim: 1.00)
+  Shared Core: 'a'
+  Rule: Prefix: d -> cht | Suffix: in -> l
+
+Alignment: dal        -> chockhy    (Sim: 1.00)
+  Shared Core: ''
+  Rule: Complete Transformation
+
+Alignment: chey       -> keeol      (Sim: 1.00)
+  Shared Core: 'e'
+  Rule: Prefix: ch -> k | Suffix: y -> eol
+
+Alignment: aiin       -> olsheey    (Sim: 1.00)
+  Shared Core: ''
+  Rule: Complete Transformation
+
+Alignment: cheol      -> lchal      (Sim: 1.00)
+  Shared Core: 'ch'
+  Rule: Prefix: [None] -> l | Suffix: eol -> al
+
+Alignment: shor       -> dchey      (Sim: 1.00)
+  Shared Core: 'h'
+  Rule: Prefix: s -> dc | Suffix: or -> ey
+
+Alignment: shy        -> dchey      (Sim: 1.00)
+  Shared Core: 'h'
+  Rule: Prefix: s -> dc | Suffix: y -> ey
+
+Alignment: y          -> dchey      (Sim: 1.00)
+  Shared Core: 'y'
+  Rule: Prefix: [None] -> dche
+
+Alignment: dol        -> qokshey    (Sim: 1.00)
+  Shared Core: 'o'
+  Rule: Prefix: d -> q | Suffix: l -> kshey
+
+--------------------------------------------------
+ Dominant Cipher Modification Rules (Lang A -> Lang B)
+--------------------------------------------------
+  Prefix: ch -> [None] | Suffix: [None] -> am : 1 occurrences
+  Prefix: [None] -> ol | Suffix: [None] -> heey : 1 occurrences
+  Prefix: d -> [None] | Suffix: [None] -> tain : 1 occurrences
+  Prefix: sh -> [None] | Suffix: [None] -> iiin : 1 occurrences
+  Prefix: [None] -> d | Suffix: y -> ey    : 1 occurrences
+  Prefix: o -> [None] | Suffix: [None] -> chal : 1 occurrences
+  Suffix: r -> lsheey                      : 1 occurrences
+  Prefix: d -> cht | Suffix: in -> l       : 1 occurrences
+  Prefix: ch -> k | Suffix: y -> eol       : 1 occurrences
+  Prefix: [None] -> l | Suffix: eol -> al  : 1 occurrences
+  Prefix: s -> dc | Suffix: or -> ey       : 1 occurrences
+  Prefix: s -> dc | Suffix: y -> ey        : 1 occurrences
+  Prefix: [None] -> dche                   : 1 occurrences
+  Prefix: d -> q | Suffix: l -> kshey      : 1 occurrences
+  Prefix: s -> lc | Suffix: ey -> al       : 1 occurrences
+
+Out of 228 high-confidence transformations:
+94 times (41.2%), the 'Core' stem (2+ chars) was completely preserved.
+
+Conclusion on Original Form:
+If the 'Core' remains mathematically identical while the affixes swap predictably, 
+then the 'Core' IS the true underlying (unencrypted) information content, 
+and the shifting affixes are context-dependent Dummy/Padding algorithms.

@@ -1,0 +1,46 @@
+==================================================
+ 4. Cross-analysis: Labels vs. Paragraph Context 
+==================================================
+Isolated Label Words (Lines with 1-2 words): 1140
+Paragraph Words (Lines with 5+ words): 34313
+
+--- Morphological Difference ---
+Paragraph Words having common 'Null' Prefix ('qo', 'ch', 'sh'): 40.2%
+Label Words having common 'Null' Prefix ('qo', 'ch', 'sh'):     10.8%
+
+Paragraph Words having common 'Null' Suffix ('dy', 'in', 'y'): 57.5%
+Label Words having common 'Null' Suffix ('dy', 'in', 'y'):     49.9%
+
+--- Top 15 Paragraph Words ---
+  daiin     : 782
+  ol        : 525
+  chedy     : 496
+  aiin      : 452
+  shedy     : 423
+  chol      : 372
+  or        : 354
+  chey      : 333
+  ar        : 332
+  qokeey    : 305
+  dar       : 302
+  qokeedy   : 301
+  shey      : 274
+  qokain    : 274
+  qokedy    : 270
+
+--- Top 15 Label Words ---
+  daiin     : 12
+  otal      : 9
+  otol      : 7
+  okal      : 7
+  okeody    : 7
+  otoldy    : 6
+  okaiin    : 6
+  dy        : 6
+  oky       : 6
+  otaly     : 6
+  okeey     : 5
+  sar       : 5
+  okar      : 5
+  am        : 5
+  okaly     : 5

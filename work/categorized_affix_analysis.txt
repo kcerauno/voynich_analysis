@@ -1,0 +1,164 @@
+
+
+
+############################################################
+### LENGTH 1 AFFIXES ###
+############################################################
+
+==================================================
+ Analysis by LANGUAGE (Prefix/Suffix Length: 1)
+==================================================
+
+--- Language: 'B' (Total words: 23377) ---
+Top Prefixes: o (22.8%), q (17.9%), c (15.1%), s (11.3%), d (6.9%)
+Top Suffixes: y (44.7%), n (17.1%), l (14.0%), r (13.7%), m (2.5%)
+
+--- Language: 'A' (Total words: 11405) ---
+Top Prefixes: c (25.3%), o (17.2%), d (15.0%), s (12.1%), q (9.8%)
+Top Suffixes: y (31.6%), l (18.4%), r (16.5%), n (15.7%), o (4.8%)
+
+==================================================
+ Analysis by SCRIBE (Prefix/Suffix Length: 1)
+==================================================
+
+--- Scribe: '2' (Total words: 9872) ---
+Top Prefixes: o (22.0%), q (19.5%), c (13.9%), s (13.6%), d (8.8%)
+Top Suffixes: y (50.3%), l (15.5%), n (13.6%), r (11.5%), s (1.8%)
+
+--- Scribe: '1' (Total words: 7248) ---
+Top Prefixes: c (27.5%), d (16.7%), o (14.3%), s (11.8%), q (8.7%)
+Top Suffixes: y (31.7%), n (17.9%), r (16.3%), l (16.3%), o (5.2%)
+
+--- Scribe: 'X' (Total words: 2740) ---
+Top Prefixes: o (22.6%), q (19.2%), c (16.3%), s (12.5%), a (6.2%)
+Top Suffixes: y (43.4%), n (18.1%), r (14.6%), l (12.6%), o (3.4%)
+
+--- Scribe: '4' (Total words: 1866) ---
+Top Prefixes: c (24.7%), o (22.9%), s (13.8%), d (10.8%), q (9.9%)
+Top Suffixes: y (30.7%), l (24.4%), r (15.6%), n (10.8%), o (5.0%)
+
+--- Scribe: '3' (Total words: 1818) ---
+Top Prefixes: o (27.6%), q (14.0%), c (11.1%), s (10.1%), y (9.0%)
+Top Suffixes: y (37.7%), r (22.3%), n (19.6%), l (10.6%), m (4.1%)
+
+--- Scribe: 'Y' (Total words: 760) ---
+Top Prefixes: o (29.5%), a (12.9%), c (10.9%), q (10.4%), d (8.3%)
+Top Suffixes: y (35.5%), n (19.5%), r (17.5%), l (12.9%), s (4.2%)
+
+--- Scribe: '5' (Total words: 546) ---
+Top Prefixes: o (28.2%), c (17.4%), q (13.0%), d (7.9%), s (7.1%)
+Top Suffixes: y (39.9%), n (22.9%), r (17.6%), l (10.6%), m (2.4%)
+
+==================================================
+ Analysis by CATEGORY (Prefix/Suffix Length: 1)
+==================================================
+
+--- Category: 'herbal' (Total words: 11385) ---
+Top Prefixes: c (24.4%), o (17.2%), d (14.1%), s (11.4%), q (9.3%)
+Top Suffixes: y (35.7%), r (16.4%), n (16.2%), l (14.6%), o (4.1%)
+
+--- Category: 'textonly' (Total words: 11238) ---
+Top Prefixes: o (22.5%), q (17.1%), c (16.8%), s (9.7%), a (7.8%)
+Top Suffixes: y (40.9%), n (19.7%), r (14.2%), l (13.3%), o (2.9%)
+
+--- Category: 'biological' (Total words: 6915) ---
+Top Prefixes: q (24.1%), o (21.7%), s (15.5%), c (12.5%), d (8.2%)
+Top Suffixes: y (53.0%), l (18.4%), n (13.8%), r (9.4%), s (1.2%)
+
+--- Category: 'cosmological' (Total words: 3606) ---
+Top Prefixes: o (26.7%), c (13.7%), q (10.6%), s (9.7%), d (9.6%)
+Top Suffixes: y (34.5%), r (20.8%), l (14.9%), n (13.3%), m (4.4%)
+
+--- Category: 'pharmaceutical' (Total words: 2567) ---
+Top Prefixes: o (24.3%), c (21.6%), d (13.6%), q (11.7%), s (11.6%)
+Top Suffixes: y (32.3%), l (22.8%), r (15.3%), n (13.5%), o (4.3%)
+
+--- Category: 'astrology' (Total words: 1329) ---
+Top Prefixes: o (47.0%), c (15.0%), a (11.6%), s (8.8%), y (5.3%)
+Top Suffixes: y (38.8%), l (16.0%), r (14.7%), n (10.5%), s (8.8%)
+
+--- Category: 'astronomical' (Total words: 846) ---
+Top Prefixes: o (31.7%), c (16.5%), d (14.2%), s (10.6%), y (8.7%)
+Top Suffixes: y (41.0%), r (16.9%), l (11.7%), n (9.6%), s (8.7%)
+
+
+
+############################################################
+### LENGTH 2 AFFIXES ###
+############################################################
+
+==================================================
+ Analysis by LANGUAGE (Prefix/Suffix Length: 2)
+==================================================
+
+--- Language: 'B' (Total words: 23377) ---
+Top Prefixes: qo (17.4%), ch (14.4%), sh (8.7%), ok (6.3%), ot (6.2%)
+Top Suffixes: dy (23.4%), in (16.9%), ey (11.3%), ar (6.7%), ol (5.6%)
+
+--- Language: 'A' (Total words: 11405) ---
+Top Prefixes: ch (18.8%), qo (9.5%), da (9.3%), sh (8.7%), ok (5.4%)
+Top Suffixes: in (15.0%), ol (13.5%), or (9.6%), hy (9.3%), ey (8.5%)
+
+==================================================
+ Analysis by SCRIBE (Prefix/Suffix Length: 2)
+==================================================
+
+--- Scribe: '2' (Total words: 9872) ---
+Top Prefixes: qo (19.0%), ch (13.0%), sh (10.0%), ok (6.0%), da (5.5%)
+Top Suffixes: dy (27.8%), in (13.5%), ey (10.4%), ol (6.8%), ar (5.6%)
+
+--- Scribe: '1' (Total words: 7248) ---
+Top Prefixes: ch (20.2%), da (10.2%), sh (9.1%), qo (8.5%), ct (4.8%)
+Top Suffixes: in (16.8%), ol (12.7%), hy (12.1%), or (10.3%), ey (6.8%)
+
+--- Scribe: 'X' (Total words: 2740) ---
+Top Prefixes: qo (18.9%), ch (16.0%), sh (10.4%), ot (7.2%), ok (6.5%)
+Top Suffixes: dy (19.9%), in (17.8%), ey (13.4%), ar (7.5%), ol (5.5%)
+
+--- Scribe: '4' (Total words: 1866) ---
+Top Prefixes: ch (17.3%), qo (9.3%), sh (8.1%), ok (7.4%), da (6.6%)
+Top Suffixes: ol (19.1%), ey (11.3%), in (10.6%), or (9.4%), dy (8.3%)
+
+--- Scribe: '3' (Total words: 1818) ---
+Top Prefixes: qo (13.8%), ch (10.5%), ot (8.9%), sh (7.9%), da (5.6%)
+Top Suffixes: dy (19.5%), in (19.4%), ar (11.9%), ey (9.6%), hy (4.3%)
+
+--- Scribe: 'Y' (Total words: 760) ---
+Top Prefixes: qo (10.3%), ch (9.9%), ot (9.2%), ai (6.8%), ok (5.7%)
+Top Suffixes: dy (20.3%), in (19.2%), ey (10.1%), ir (6.3%), ar (4.7%)
+
+--- Scribe: '5' (Total words: 546) ---
+Top Prefixes: ch (17.0%), qo (12.8%), ok (8.2%), ot (7.9%), sh (6.2%)
+Top Suffixes: in (22.3%), dy (22.2%), ar (10.3%), hy (5.3%), ey (4.9%)
+
+==================================================
+ Analysis by CATEGORY (Prefix/Suffix Length: 2)
+==================================================
+
+--- Category: 'herbal' (Total words: 11385) ---
+Top Prefixes: ch (18.8%), qo (9.1%), sh (8.7%), da (8.7%), ok (5.3%)
+Top Suffixes: in (15.5%), dy (11.2%), ol (10.2%), hy (9.7%), or (8.1%)
+
+--- Category: 'textonly' (Total words: 11238) ---
+Top Prefixes: qo (16.6%), ch (16.1%), sh (7.8%), ot (7.2%), ok (7.0%)
+Top Suffixes: dy (19.8%), in (19.4%), ey (12.8%), ar (6.8%), ol (5.2%)
+
+--- Category: 'biological' (Total words: 6915) ---
+Top Prefixes: qo (23.5%), ch (11.9%), sh (11.2%), ol (5.5%), ok (5.1%)
+Top Suffixes: dy (29.0%), in (13.6%), ey (12.1%), ol (8.2%), al (6.0%)
+
+--- Category: 'cosmological' (Total words: 3606) ---
+Top Prefixes: ch (12.6%), qo (10.4%), ot (8.4%), sh (7.1%), da (6.7%)
+Top Suffixes: dy (13.3%), in (13.2%), ar (10.4%), ey (9.0%), al (7.3%)
+
+--- Category: 'pharmaceutical' (Total words: 2567) ---
+Top Prefixes: ch (17.5%), qo (10.9%), da (9.0%), ok (9.0%), sh (7.2%)
+Top Suffixes: ol (17.5%), in (13.1%), ey (13.0%), or (9.0%), dy (8.3%)
+
+--- Category: 'astrology' (Total words: 1329) ---
+Top Prefixes: ot (22.0%), ok (14.4%), ch (13.8%), sh (6.8%), da (3.4%)
+Top Suffixes: ey (11.4%), dy (10.8%), in (10.1%), al (7.8%), ar (7.6%)
+
+--- Category: 'astronomical' (Total words: 846) ---
+Top Prefixes: ch (15.0%), ok (10.2%), ot (10.2%), da (8.3%), sh (5.6%)
+Top Suffixes: ey (13.1%), dy (11.8%), in (9.1%), hy (7.4%), ar (6.5%)

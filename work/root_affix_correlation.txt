@@ -1,0 +1,54 @@
+==================================================
+ Root - Prefix/Suffix Correlation Analysis 
+==================================================
+
+--- Top 20 Most Frequent Roots ---
+Root: 'e   ' | Freq: 2414 | Top Prefixes: ch(906), sh(734)     | Top Suffixes: dy(1210), ey(671)
+Root: 'ai  ' | Freq: 1262 | Top Prefixes: ok(237), ot(176)     | Top Suffixes: in(1096), r(154)
+Root: 'i   ' | Freq: 1016 | Top Prefixes: da(972), o(36)       | Top Suffixes: in(905), r(108)
+Root: 'o   ' | Freq: 1004 | Top Prefixes: ch(402), sh(288)     | Top Suffixes: r(539), dy(192)
+Root: 'a   ' | Freq: 892  | Top Prefixes: ok(292), ot(246)     | Top Suffixes: in(444), l(406)
+Root: 'ke  ' | Freq: 778  | Top Prefixes: qo(639), ch(19)      | Top Suffixes: ey(373), dy(323)
+Root: 'k   ' | Freq: 710  | Top Prefixes: qo(533), ch(42)      | Top Suffixes: ar(221), y(183)
+Root: 'ka  ' | Freq: 593  | Top Prefixes: qo(480), ch(26)      | Top Suffixes: in(347), l(229)
+Root: 'eo  ' | Freq: 570  | Top Prefixes: ch(263), sh(152)     | Top Suffixes: dy(218), r(191)
+Root: 'ee  ' | Freq: 547  | Top Prefixes: ok(155), sh(119)     | Top Suffixes: dy(386), ey(68)
+Root: 'kee ' | Freq: 431  | Top Prefixes: qo(345), ch(3)       | Top Suffixes: dy(361), ey(39)
+Root: 'ch  ' | Freq: 406  | Top Prefixes: ot(147), ok(111)     | Top Suffixes: y(135), ey(102)
+Root: 'kai ' | Freq: 390  | Top Prefixes: qo(281), ch(18)      | Top Suffixes: in(353), r(34)
+Root: 't   ' | Freq: 373  | Top Prefixes: qo(231), ch(24)      | Top Suffixes: ar(111), y(109)
+Root: 'ckh ' | Freq: 336  | Top Prefixes: ch(188), sh(76)      | Top Suffixes: y(236), ey(68)
+Root: 'l   ' | Freq: 286  | Top Prefixes: o(123), da(61)       | Top Suffixes: y(98), dy(73)
+Root: 'kch ' | Freq: 283  | Top Prefixes: qo(175), ch(9)       | Top Suffixes: y(107), dy(77)
+Root: 'th  ' | Freq: 258  | Top Prefixes: c(258)               | Top Suffixes: y(111), ol(61)
+Root: 'te  ' | Freq: 233  | Top Prefixes: qo(147), ch(5)       | Top Suffixes: dy(135), ey(67)
+Root: 'lche' | Freq: 219  | Top Prefixes: o(61), qo(13)        | Top Suffixes: dy(171), ey(27)
+
+
+--- Co-occurrence: Prefix <-> Suffix Dependency ---
+Do certain prefixes strongly dictate the suffix regardless of root?
+
+Prefix 'qo' (Total pairings: 4835):
+  -> takes suffix 'dy': 26.0%
+  -> takes suffix 'in': 18.7%
+  -> takes suffix 'ey': 14.6%
+
+Prefix 'ch' (Total pairings: 5250):
+  -> takes suffix 'dy': 21.7%
+  -> takes suffix 'y': 21.4%
+  -> takes suffix 'ey': 14.9%
+
+Prefix 'sh' (Total pairings: 2753):
+  -> takes suffix 'dy': 27.5%
+  -> takes suffix 'y': 19.8%
+  -> takes suffix 'ey': 19.5%
+
+Prefix 'o' (Total pairings: 2247):
+  -> takes suffix 'in': 23.3%
+  -> takes suffix 'dy': 21.8%
+  -> takes suffix 'y': 15.0%
+
+Prefix 'c' (Total pairings: 812):
+  -> takes suffix 'y': 30.2%
+  -> takes suffix 'ol': 17.5%
+  -> takes suffix 'ey': 16.0%

@@ -1,0 +1,94 @@
+==================================================
+ Voynich Transition (Bigram) Analysis 
+==================================================
+
+--- 1. Previous Suffix -> Current Prefix ---
+Does how the last word ended dictate how the new word begins?
+
+After ending in '-y' (N=3661):
+  -> Next word starts with 'None-': 19.1%
+  -> Next word starts with 'ch-': 15.4%
+  -> Next word starts with 'qo-': 14.9%
+  -> Next word starts with 'da-': 9.8%
+  -> Next word starts with 'sh-': 7.7%
+
+After ending in '-dy' (N=5903):
+  -> Next word starts with 'qo-': 32.6%
+  -> Next word starts with 'None-': 16.6%
+  -> Next word starts with 'ch-': 12.9%
+  -> Next word starts with 'ot-': 7.5%
+  -> Next word starts with 'ok-': 6.5%
+
+After ending in '-in' (N=5270):
+  -> Next word starts with 'ch-': 24.7%
+  -> Next word starts with 'sh-': 12.8%
+  -> Next word starts with 'None-': 12.4%
+  -> Next word starts with 'o-': 12.4%
+  -> Next word starts with 'ot-': 9.0%
+
+After ending in '-l' (N=1961):
+  -> Next word starts with 'None-': 22.3%
+  -> Next word starts with 'ch-': 19.5%
+  -> Next word starts with 'sh-': 12.7%
+  -> Next word starts with 'o-': 10.0%
+  -> Next word starts with 'da-': 8.7%
+
+After ending in '-r' (N=2824):
+  -> Next word starts with 'None-': 23.8%
+  -> Next word starts with 'ch-': 23.0%
+  -> Next word starts with 'o-': 14.2%
+  -> Next word starts with 'sh-': 12.7%
+  -> Next word starts with 'ok-': 5.2%
+
+After ending in '-None' (N=3469):
+  -> Next word starts with 'None-': 34.5%
+  -> Next word starts with 'ch-': 14.9%
+  -> Next word starts with 'o-': 10.0%
+  -> Next word starts with 'qo-': 8.1%
+  -> Next word starts with 'sh-': 7.4%
+
+
+--- 2. Previous Prefix -> Current Prefix ---
+Are prefixes clustered together (e.g., qo followed by another qo)?
+
+After starting with 'qo-' (N=4917):
+  -> Next word also starts with 'ch-': 19.9%
+  -> Next word also starts with 'qo-': 19.3%
+  -> Next word also starts with 'None-': 16.3%
+  -> Next word also starts with 'sh-': 9.8%
+  -> Next word also starts with 'o-': 9.1%
+
+After starting with 'ch-' (N=5355):
+  -> Next word also starts with 'None-': 22.1%
+  -> Next word also starts with 'ch-': 18.8%
+  -> Next word also starts with 'qo-': 15.0%
+  -> Next word also starts with 'da-': 7.6%
+  -> Next word also starts with 'o-': 7.3%
+
+After starting with 'sh-' (N=3046):
+  -> Next word also starts with 'qo-': 29.0%
+  -> Next word also starts with 'None-': 18.8%
+  -> Next word also starts with 'ch-': 11.2%
+  -> Next word also starts with 'sh-': 10.2%
+  -> Next word also starts with 'o-': 7.9%
+
+After starting with 'o-' (N=2924):
+  -> Next word also starts with 'None-': 24.8%
+  -> Next word also starts with 'ch-': 17.5%
+  -> Next word also starts with 'o-': 14.6%
+  -> Next word also starts with 'qo-': 10.8%
+  -> Next word also starts with 'sh-': 9.5%
+
+After starting with 'da-' (N=1792):
+  -> Next word also starts with 'ch-': 21.7%
+  -> Next word also starts with 'None-': 16.1%
+  -> Next word also starts with 'sh-': 12.2%
+  -> Next word also starts with 'o-': 9.2%
+  -> Next word also starts with 'da-': 8.6%
+
+After starting with 'None-' (N=7477):
+  -> Next word also starts with 'None-': 25.8%
+  -> Next word also starts with 'ch-': 17.3%
+  -> Next word also starts with 'qo-': 10.8%
+  -> Next word also starts with 'o-': 10.2%
+  -> Next word also starts with 'sh-': 10.0%

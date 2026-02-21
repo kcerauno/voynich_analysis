@@ -1,0 +1,45 @@
+==============================================================
+ 2. Pharmaceutical Verb Detection (Recipe Instructions) 
+==============================================================
+
+Pharmaceutical section: 2522 words, 1129 unique
+Non-Pharma sections: 34590 words
+
+--- Words EXCLUSIVE to Pharmaceutical (count >= 2) ---
+  shockhey      : 3 total, 2 line-initial (67%)
+  olchor        : 3 total, 0 line-initial (0%)
+  okols         : 2 total, 1 line-initial (50%)
+  tocheo        : 2 total, 2 line-initial (100%)
+  sheockhey     : 2 total, 0 line-initial (0%)
+  okolol        : 2 total, 0 line-initial (0%)
+  oeeor         : 2 total, 0 line-initial (0%)
+  yfolaiin      : 2 total, 0 line-initial (0%)
+  ykhey         : 2 total, 0 line-initial (0%)
+  ydar          : 2 total, 1 line-initial (50%)
+  okoraiin      : 2 total, 1 line-initial (50%)
+  cheokal       : 2 total, 0 line-initial (0%)
+  deeor         : 2 total, 0 line-initial (0%)
+  loiiin        : 2 total, 0 line-initial (0%)
+  qkol          : 2 total, 1 line-initial (50%)
+  qoekol        : 2 total, 0 line-initial (0%)
+  korain        : 2 total, 1 line-initial (50%)
+  opcheor       : 2 total, 1 line-initial (50%)
+  okeoy         : 2 total, 0 line-initial (0%)
+  cfheol        : 2 total, 0 line-initial (0%)
+
+--- Pharma-Skewed + Line-Initial Words (Recipe Verbs) ---
+(Verbs in recipes start sentences: 'Mix...', 'Boil...', 'Add...')
+Word           | Pharma | Other | P_ratio | 1st_cnt | 1st_pct
+-----------------------------------------------------------------
+shockhey       |      3 |     0 |    100% |       2 |     67%
+otoky          |      2 |     1 |     67% |       2 |    100%
+dcheor         |      2 |     2 |     50% |       2 |    100%
+otory          |      2 |     2 |     50% |       2 |    100%
+doly           |      2 |     1 |     67% |       1 |     50%
+tos            |      2 |     2 |     50% |       1 |     50%
+okeoly         |      3 |     3 |     50% |       1 |     33%
+qockhol        |      5 |     2 |     71% |       1 |     20%
+
+--- Pharma vs Non-Pharma: Line Length Distribution ---
+  Pharmaceutical avg words/line: 5.6
+  Non-Pharma avg words/line: 7.4

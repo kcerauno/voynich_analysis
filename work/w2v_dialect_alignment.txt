@@ -1,0 +1,81 @@
+==================================================
+ 3. Word2Vec Dialect Vector Space Alignment 
+==================================================
+Loaded Language A: 1809 sentences (lines)
+Loaded Language B: 2659 sentences (lines)
+Training Model A...
+Training Model B...
+
+Vocabulary Intersection (words appearing >=5 times in BOTH): 227 words
+Aligning Vector Spaces (Orthogonal Procrustes mapping A -> B)...
+
+--- Semantic Shifts: Translating Lang A markers into Lang B ---
+If Language A's 'ch-' perfectly maps to Language B's 'qo-', we will see it here.
+
+Language A word: [chol]
+  Closest semantic equivalents in Language B:
+    -> daiiin     (Similarity: 0.997)
+    -> ycheol     (Similarity: 0.997)
+    -> ytain      (Similarity: 0.997)
+
+Language A word: [daiin]
+  Closest semantic equivalents in Language B:
+    -> qotched    (Similarity: 0.997)
+    -> qoteol     (Similarity: 0.997)
+    -> ycheol     (Similarity: 0.997)
+
+Language A word: [chey]
+  Closest semantic equivalents in Language B:
+    -> ycheo      (Similarity: 0.997)
+    -> tshey      (Similarity: 0.997)
+    -> qokshey    (Similarity: 0.997)
+
+Language A word: [ar]
+  Closest semantic equivalents in Language B:
+    -> olr        (Similarity: 0.997)
+    -> oram       (Similarity: 0.997)
+    -> cheockhy   (Similarity: 0.997)
+
+Language A word: [ol]
+  Closest semantic equivalents in Language B:
+    -> qokshey    (Similarity: 0.997)
+    -> lchal      (Similarity: 0.997)
+    -> olsheey    (Similarity: 0.997)
+
+--- Semantic Shifts: Translating Lang B markers into Lang A ---
+
+Language B word: [qo]
+  Closest semantic equivalents in Language A:
+    -> okeey      (Similarity: 0.921)
+    -> okeol      (Similarity: 0.921)
+    -> okey       (Similarity: 0.917)
+
+Language B word: [qokedy]
+  Closest semantic equivalents in Language A:
+    -> qotol      (Similarity: 0.487)
+    -> okeol      (Similarity: 0.485)
+    -> dy         (Similarity: 0.477)
+
+Language B word: [qokeedy]
+  Closest semantic equivalents in Language A:
+    -> okeol      (Similarity: 0.514)
+    -> okeey      (Similarity: 0.514)
+    -> okey       (Similarity: 0.505)
+
+Language B word: [dy]
+  Closest semantic equivalents in Language A:
+    -> kchy       (Similarity: 0.809)
+    -> dy         (Similarity: 0.809)
+    -> okchy      (Similarity: 0.808)
+
+Language B word: [ody]
+  Closest semantic equivalents in Language A:
+    -> chy        (Similarity: 0.970)
+    -> dchy       (Similarity: 0.970)
+    -> oty        (Similarity: 0.970)
+
+Language B word: [qotchy]
+  Closest semantic equivalents in Language A:
+    -> okeol      (Similarity: 0.957)
+    -> okeey      (Similarity: 0.956)
+    -> sheol      (Similarity: 0.956)

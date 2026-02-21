@@ -1,0 +1,107 @@
+==============================================================
+ Full-Text Numeral Candidate Analysis (All Categories) 
+==============================================================
+
+--- 1. Per-Category Distribution of Numeral Candidates ---
+Word       | textonly |  herbal |  cosmo |  astro |  astrol |   bio |  pharma |  Total | Astro%
+----------------------------------------------------------------------------------------------------
+ot         |        3 |       2 |      1 |      2 |       0 |     1 |       1 |     10 |  30.0%
+os         |        6 |      10 |      5 |      1 |       2 |     1 |       4 |     29 |  27.6%
+om         |        7 |       6 |      4 |      1 |       0 |     0 |       4 |     22 |  22.7%
+al         |      139 |      23 |     35 |      3 |      29 |    23 |       8 |    260 |  25.8%
+ar         |      146 |      70 |     78 |      7 |      27 |    21 |       3 |    352 |  31.8%
+oto        |        2 |       0 |      2 |      0 |       5 |     0 |       1 |     10 |  70.0%
+oees       |        2 |       4 |      2 |      0 |       1 |     0 |       0 |      9 |  33.3%
+eees       |        4 |       3 |      1 |      1 |       0 |     0 |       0 |      9 |  22.2%
+ees        |        0 |       1 |      2 |      1 |       0 |     1 |       1 |      6 |  50.0%
+oteos      |        2 |       3 |      5 |      2 |      15 |     0 |       2 |     29 |  75.9%
+okeos      |        0 |       1 |      3 |      2 |       6 |     0 |       2 |     14 |  78.6%
+otees      |        1 |       1 |      2 |      1 |       5 |     0 |       0 |     10 |  80.0%
+alar       |        1 |       0 |      2 |      0 |       3 |     0 |       0 |      6 |  83.3%
+alal       |        1 |       0 |      3 |      0 |       1 |     0 |       0 |      5 |  80.0%
+am         |       30 |      19 |     17 |      3 |      10 |     3 |       6 |     88 |  34.1%
+ro         |        6 |       3 |      0 |      0 |       0 |     1 |       0 |     10 |   0.0%
+ls         |        3 |       2 |      1 |      1 |       0 |     3 |       0 |     10 |  20.0%
+aim        |        2 |       2 |      3 |      0 |       0 |     0 |       0 |      7 |  42.9%
+as         |        2 |       1 |      0 |      0 |       2 |     0 |       0 |      5 |  40.0%
+
+--- 2. Line Position Behavior of Numeral Candidates ---
+Word       |  First% |  Middle% |   Last% |  Total
+-------------------------------------------------------
+ot         |    0.0% |    80.0% |   20.0% |     10
+os         |    6.9% |    86.2% |    6.9% |     29
+om         |    4.5% |    27.3% |   68.2% |     22
+al         |    0.4% |    86.2% |   13.5% |    260
+ar         |    1.4% |    91.2% |    7.4% |    352
+oto        |   10.0% |    90.0% |    0.0% |     10
+oees       |   77.8% |    22.2% |    0.0% |      9
+eees       |    0.0% |    88.9% |   11.1% |      9
+ees        |    0.0% |   100.0% |    0.0% |      6
+oteos      |   13.8% |    79.3% |    6.9% |     29
+okeos      |   42.9% |    57.1% |    0.0% |     14
+otees      |   10.0% |    80.0% |   10.0% |     10
+alar       |    0.0% |   100.0% |    0.0% |      6
+alal       |    0.0% |   100.0% |    0.0% |      5
+am         |    0.0% |    26.1% |   73.9% |     88
+ro         |    0.0% |    60.0% |   40.0% |     10
+ls         |    0.0% |    70.0% |   30.0% |     10
+aim        |    0.0% |    42.9% |   57.1% |      7
+as         |    0.0% |   100.0% |    0.0% |      5
+
+--- 3. Context Words (What appears next to numeral candidates?) ---
+
+  'ot' (Total context: 18):
+    BEFORE: chal(1), kar(1), cheedy(1)
+    AFTER:  kar(1), chym(1), ytaiin(1)
+
+  'os' (Total context: 54):
+    BEFORE: cheor(2), aiin(2), s(2)
+    AFTER:  aiin(4), al(3), ykeey(1)
+
+  'om' (Total context: 28):
+    BEFORE: or(3), air(2), chdalal(1)
+    AFTER:  shee(1), qoear(1), olshedy(1)
+
+  'al' (Total context: 484):
+    BEFORE: ar(23), aiin(10), or(9)
+    AFTER:  ar(7), chedy(6), s(6)
+
+  'ar' (Total context: 672):
+    BEFORE: okar(13), ar(11), s(9)
+    AFTER:  aiin(24), al(23), ar(11)
+
+  'oto' (Total context: 19):
+    BEFORE: otsheey(1), otar(1), chkey(1)
+    AFTER:  daiin(2), kcho(1), aral(1)
+
+  'oteos' (Total context: 52):
+    BEFORE: saiin(2), chedy(1), oteey(1)
+    AFTER:  aiin(7), alar(2), roloty(1)
+
+  'am' (Total context: 111):
+    BEFORE: ar(6), aiin(5), dar(4)
+    AFTER:  shey(2), ols(1), ol(1)
+
+--- 4. Frequency Decay Pattern (Benford's Law Test) ---
+If these are numerals (1,2,3...), smaller numbers should be more frequent.
+
+Ranked by frequency:
+   1. ar          352 ############################################################
+   2. al          260 ############################################################
+   3. am           88 ############################################################
+   4. os           29 #############################
+   5. oteos        29 #############################
+   6. om           22 ######################
+   7. okeos        14 ##############
+   8. ot           10 ##########
+   9. oto          10 ##########
+  10. otees        10 ##########
+  11. ro           10 ##########
+  12. ls           10 ##########
+  13. oees          9 #########
+  14. eees          9 #########
+  15. aim           7 #######
+  16. ees           6 ######
+  17. alar          6 ######
+  18. alal          5 #####
+  19. as            5 #####

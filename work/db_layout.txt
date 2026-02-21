@@ -1,0 +1,27 @@
+Tables found: ['words', 'sqlite_sequence', 'words_enriched']
+
+--- Layout for table: words ---
+ID   Name                 Type       NotNull  PK 
+--------------------------------------------------
+0    id                   INTEGER    0        1  
+1    page                 TEXT       1        0  
+2    line_number          INTEGER    1        0  
+3    word_position        INTEGER    1        0  
+4    word                 TEXT       1        0  
+
+--- Layout for table: sqlite_sequence ---
+ID   Name                 Type       NotNull  PK 
+--------------------------------------------------
+0    name                            0        0  
+1    seq                             0        0  
+
+--- Layout for table: words_enriched ---
+ID   Name                 Type       NotNull  PK 
+--------------------------------------------------
+0    page                 TEXT       0        0  
+1    line_number          INTEGER    0        0  
+2    word_position        INTEGER    0        0  
+3    word                 TEXT       0        0  
+4    category             TEXT       0        0  
+5    language             TEXT       0        0  
+6    scribe               TEXT       0        0  

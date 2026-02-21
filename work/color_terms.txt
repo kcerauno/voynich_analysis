@@ -1,0 +1,95 @@
+==============================================================
+ 1. Color Term Detection: Herbal-Exclusive Words 
+==============================================================
+
+Herbal section: 11024 total words, 3347 unique
+Non-Herbal sections: 26088 total words, 6154 unique
+
+--- Words EXCLUSIVE to Herbal (count >= 2) ---
+  ctho          : 15 (HERBAL ONLY)
+  qotchor       : 14 (HERBAL ONLY)
+  qotchol       : 13 (HERBAL ONLY)
+  choiin        : 13 (HERBAL ONLY)
+  cthom         : 9 (HERBAL ONLY)
+  dsho          : 9 (HERBAL ONLY)
+  tchody        : 8 (HERBAL ONLY)
+  ksho          : 8 (HERBAL ONLY)
+  chkchy        : 6 (HERBAL ONLY)
+  dcho          : 5 (HERBAL ONLY)
+  cth           : 5 (HERBAL ONLY)
+  shan          : 5 (HERBAL ONLY)
+  schol         : 5 (HERBAL ONLY)
+  cty           : 5 (HERBAL ONLY)
+  ykchor        : 5 (HERBAL ONLY)
+  ckheody       : 5 (HERBAL ONLY)
+  ksheo         : 4 (HERBAL ONLY)
+  cto           : 4 (HERBAL ONLY)
+  chochy        : 4 (HERBAL ONLY)
+  cthod         : 4 (HERBAL ONLY)
+  chyty         : 4 (HERBAL ONLY)
+  ychy          : 4 (HERBAL ONLY)
+  tshor         : 4 (HERBAL ONLY)
+  ckhody        : 4 (HERBAL ONLY)
+  okoy          : 4 (HERBAL ONLY)
+
+--- Words SKEWED toward Herbal (>=60%, count >= 5) ---
+  dcho          :   5 herbal /   0 other = 100% herbal
+  cth           :   5 herbal /   0 other = 100% herbal
+  shan          :   5 herbal /   0 other = 100% herbal
+  cthom         :   9 herbal /   0 other = 100% herbal
+  qotchol       :  13 herbal /   0 other = 100% herbal
+  tchody        :   8 herbal /   0 other = 100% herbal
+  ctho          :  15 herbal /   0 other = 100% herbal
+  schol         :   5 herbal /   0 other = 100% herbal
+  cty           :   5 herbal /   0 other = 100% herbal
+  qotchor       :  14 herbal /   0 other = 100% herbal
+  choiin        :  13 herbal /   0 other = 100% herbal
+  dsho          :   9 herbal /   0 other = 100% herbal
+  ykchor        :   5 herbal /   0 other = 100% herbal
+  ksho          :   8 herbal /   0 other = 100% herbal
+  chkchy        :   6 herbal /   0 other = 100% herbal
+  ckheody       :   5 herbal /   0 other = 100% herbal
+  cthaiin       :  12 herbal /   1 other = 92% herbal
+  ytchor        :  12 herbal /   1 other = 92% herbal
+  chotchy       :  11 herbal /   1 other = 92% herbal
+  ytol          :  11 herbal /   1 other = 92% herbal
+  cthor         :  41 herbal /   4 other = 91% herbal
+  kchy          :  27 herbal /   3 other = 90% herbal
+  kchor         :  18 herbal /   2 other = 90% herbal
+  qokcho        :   9 herbal /   1 other = 90% herbal
+  dchor         :  23 herbal /   3 other = 88% herbal
+
+--- SHORT (2-5 chars) Herbal-Exclusive/Skewed Candidates ---
+(Color adjectives are typically short in most languages)
+  chor    : 160 herbal / 60 other (73%) [SKEWED]
+  chy     : 105 herbal / 50 other (68%) [SKEWED]
+  cthy    : 98 herbal / 13 other (88%) [SKEWED]
+  sho     : 96 herbal / 34 other (74%) [SKEWED]
+  shy     : 70 herbal / 34 other (67%) [SKEWED]
+  shor    : 67 herbal / 30 other (69%) [SKEWED]
+  cthol   : 49 herbal / 12 other (80%) [SKEWED]
+  cho     : 43 herbal / 26 other (62%) [SKEWED]
+  cthor   : 41 herbal / 4 other (91%) [SKEWED]
+  ckhy    : 32 herbal / 7 other (82%) [SKEWED]
+  cthey   : 32 herbal / 19 other (63%) [SKEWED]
+  otchy   : 31 herbal / 17 other (65%) [SKEWED]
+  kchy    : 27 herbal / 3 other (90%) [SKEWED]
+  dchy    : 25 herbal / 5 other (83%) [SKEWED]
+  dchor   : 23 herbal / 3 other (88%) [SKEWED]
+
+--- Cross-check: Herbal-exclusive vs Pharmaceutical presence ---
+  ctho          : Herbal=15, Pharma=0
+  qotchor       : Herbal=14, Pharma=0
+  qotchol       : Herbal=13, Pharma=0
+  choiin        : Herbal=13, Pharma=0
+  cthom         : Herbal=9, Pharma=0
+  dsho          : Herbal=9, Pharma=0
+  tchody        : Herbal=8, Pharma=0
+  ksho          : Herbal=8, Pharma=0
+  chkchy        : Herbal=6, Pharma=0
+  dcho          : Herbal=5, Pharma=0
+  cth           : Herbal=5, Pharma=0
+  shan          : Herbal=5, Pharma=0
+  schol         : Herbal=5, Pharma=0
+  cty           : Herbal=5, Pharma=0
+  ykchor        : Herbal=5, Pharma=0

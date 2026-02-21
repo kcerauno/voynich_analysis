@@ -1,0 +1,116 @@
+==================================================
+ Approach 5: Zodiac Page Label Cross-Reference 
+==================================================
+
+Astronomical/Cosmological/Astrology pages found: 35
+
+--- Per-Page Analysis of Astronomical Sections ---
+Page       | Total | Labels | Short | Top Label Words
+--------------------------------------------------------------------------------
+f57v       |    76 |     10 |    36 | dairol(1), otodarod(1), oparairdly(1), olkchdal(1), otardaly(1)
+f58r       |   361 |      0 |   126 | 
+f58v       |   358 |      0 |   135 | 
+f67r1      |   150 |     17 |    55 | otaldy(1), otoky(1), seeoar(1), ykas(1), asa(1)
+f67r2      |   174 |     66 |    66 | ykchyr(1), aram(1), shekchy(1), ykor(1), ykeody(1)
+f67v1      |    71 |     21 |    22 | damamm(1), dairkal(1), okal(1), ary(1), dor(1)
+f67v2      |    60 |     16 |    26 | otararain(1), dcsesor(1), ochepalain(1), okydseog(1), oafoaly(1)
+f68r1      |    65 |     34 |    13 | dchor(1), okaiin(1), yky(1), dary(1), chkchykoly(1)
+f68r2      |    79 |     25 |    18 | otolchcthy(1), cheorol(1), odaiin(1), ochory(1), shdar(1)
+f68r3      |   100 |     14 |    22 | dchol(1), dal(1), doaro(1), oalcheol(1), okos(1)
+f68v1      |    93 |      7 |    44 | sair(1), arolsas(1), oteeos(1), araly(1), okechdaral(1)
+f68v2      |    99 |     22 |    25 | otey(1), dalar(1), otosey(1), sary(1), socths(1)
+f68v3      |   158 |      2 |    49 | otodol(1), opcholdg(1)
+f69r       |   158 |     17 |    88 | dchochar(1), ar(1), shy(1), chtairy(1), ytoetear(1)
+f69v       |   131 |     32 |    51 | okeod(3), okchy(2), dy(2), sar(1), okeo(1)
+f70r1      |   110 |     20 |    42 | dam(2), ooooooooolarsr(1), yfcheodly(1), ytcheas(1), aly(1)
+f70r2      |   239 |      0 |   118 | 
+f70v1      |    85 |     15 |    27 | opchey(1), sal(1), otokaiman(1), okalal(1), otyly(1)
+f70v2      |   138 |     37 |    58 | otal(3), oty(2), am(2), otalalg(1), okasy(1)
+f71r       |    89 |     19 |    32 | oteos(1), arar(1), okldam(1), oteoaldy(1), oteolar(1)
+f71v       |   100 |     16 |    44 | char(1), orom(1), chfaly(1), okolar(1), otchody(1)
+f72r1      |   104 |     18 |    39 | oshodody(1), chdaiirsainy(1), okalam(1), ytal(1), shda(1)
+f72r2      |   107 |     32 |    39 | okal(2), okaly(2), ofchdady(1), oklairdy(1), okaram(1)
+f72r3      |   166 |     37 |    53 | olkalaiin(1), olalsy(1), otosaiin(1), ypaiin(1), aloly(1)
+f72v1      |   101 |     30 |    29 | oeeoty(1), octhy(1), oteoly(1), okeoly(1), oeees(1)
+f72v2      |   110 |     33 |    32 | oeedey(1), oeeo(1), daiin(1), okeoram(1), airolm(1)
+f72v3      |   121 |     36 |    40 | otoly(2), ogeom(1), oreeey(1), okam(1), okey(1)
+f73r       |    96 |     30 |    29 | okeos(2), otoly(1), chockhy(1), okedy(1), yteeody(1)
+f73v       |    96 |     30 |    29 | oteody(2), okeody(2), ykey(2), okol(1), cheody(1)
+f85r1      |   331 |      0 |   101 | 
+f85r2      |   157 |      1 |    51 | sosees(1)
+f86v3      |   278 |      0 |    74 | 
+f86v4      |   188 |      0 |    76 | 
+f86v5      |   380 |      0 |   166 | 
+f86v6      |   478 |      0 |   168 | 
+
+--- Star Count Cross-Reference ---
+Checking if any word's frequency matches the known star count on zodiac pages.
+
+  Page f70v1 (Expected stars: 29):
+    Top 5 words: [('dal', 3), ('cheody', 2), ('oteoeey', 2), ('sheo', 2), ('daiin', 2)]
+
+  Page f70v2 (Expected stars: 30):
+    Top 5 words: [('ar', 7), ('al', 5), ('otal', 4), ('am', 3), ('dar', 2)]
+
+  Page f71r (Expected stars: 15):
+    Top 5 words: [('otol', 4), ('al', 4), ('oteody', 3), ('oteey', 3), ('aiin', 3)]
+
+  Page f71v (Expected stars: 17):
+    Top 5 words: [('al', 4), ('ar', 4), ('oteey', 3), ('otar', 2), ('okeey', 2)]
+
+  Page f72r1 (Expected stars: 30):
+    Top 5 words: [('aiin', 6), ('al', 4), ('otaiin', 4), ('ar', 3), ('cheol', 2)]
+
+  Page f72r2 (Expected stars: 30):
+    Top 5 words: [('aiin', 3), ('okeey', 3), ('al', 3), ('okal', 3), ('okaly', 3)]
+
+  Page f72r3 (Expected stars: 29):
+    Top 5 words: [('aiin', 5), ('oteody', 3), ('oteey', 3), ('dy', 3), ('sheol', 3)]
+
+  Page f72v1 (Expected stars: 17):
+    Top 5 words: [('oteos', 3), ('aiin', 3), ('otar', 2), ('oto', 2), ('alar', 1)]
+
+  Page f72v2 (Expected stars: 17):
+    Top 5 words: [('al', 3), ('oty', 2), ('shey', 2), ('cheos', 2), ('olal', 2)]
+
+  Page f72v3 (Expected stars: 30):
+    Top 5 words: [('otoly', 3), ('aiin', 3), ('oteos', 2), ('eody', 2), ('shedy', 2)]
+
+--- Label Sequence Analysis on Zodiac Pages ---
+Looking for sequences of distinct labels that could be sequential numbers.
+
+  Page f70v1: Label sequence (15 words, 15 unique):
+    opchey -> sal -> otokaiman -> okalal -> otyly -> oalcheg -> otchodals -> okolshy -> otshshdy -> otol -> ypsharal -> okoly -> otolaiin -> oteas -> araydy
+
+  Page f70v2: Label sequence (37 words, 33 unique):
+    otalalg -> okasy -> otar -> oty -> oky -> ody -> or -> okaly -> otody -> otald -> otal -> dar -> okody -> opys -> am
+
+  Page f71r: Label sequence (19 words, 19 unique):
+    oteos -> arar -> okldam -> oteoaldy -> oteolar -> okeoaly -> otaleky -> otalsar -> chsary -> oteotey -> sary -> otalaly -> otol -> chdy -> otoloaram
+
+  Page f71v: Label sequence (16 words, 16 unique):
+    char -> orom -> chfaly -> okolar -> otchody -> olcphy -> otaiin -> okaraiin -> opalor -> ar -> ofacfom -> otalody -> otalaiin -> otar -> shor
+
+  Page f72r1: Label sequence (18 words, 18 unique):
+    oshodody -> chdaiirsainy -> okalam -> ytal -> shda -> char -> alf -> otaraldy -> otaiin -> otain -> ochol -> charam -> ofaralar -> otchoshy -> otchdal
+
+  Page f72r2: Label sequence (32 words, 30 unique):
+    ofchdady -> oklairdy -> okaram -> okairy -> okeolar -> otaraldy -> okalar -> okal -> okaly -> okeey -> ary -> oteeary -> otair -> dy -> okaircham
+
+  Page f72r3: Label sequence (37 words, 37 unique):
+    olkalaiin -> olalsy -> otosaiin -> ypaiin -> aloly -> oteey -> daiin -> oeeeodaiin -> ofsholdy -> opoeey -> okaiin -> ykolairol -> or -> alkam -> ytairal
+
+  Page f72v1: Label sequence (30 words, 30 unique):
+    oeeoty -> octhy -> oteoly -> okeoly -> oeees -> ocfshy -> oees -> okeeoly -> odal -> aiinod -> odody -> oteod -> yteod -> okchedy -> okyl
+
+  Page f72v2: Label sequence (33 words, 33 unique):
+    oeedey -> oeeo -> daiin -> okeoram -> airolm -> oshesy -> okeory -> cheoekcy -> eeoeety -> sheoeky -> oteodar -> ofchdysd -> oeeod -> yteody -> okeody
+
+  Page f72v3: Label sequence (36 words, 35 unique):
+    ogeom -> oreeey -> okam -> okey -> oteeeody -> okyeeshy -> ofaiin -> okoly -> otoly -> ofalals -> reeeos -> ocfhey -> daiin -> chcpy -> oteey
+
+  Page f73r: Label sequence (30 words, 29 unique):
+    otoly -> chockhy -> okedy -> yteeody -> otaly -> okeody -> oteedyl -> okesdy -> okery -> oksedy -> ykeeory -> oteeosy -> shekal -> oteedyg -> okedal
+
+  Page f73v: Label sequence (30 words, 27 unique):
+    okol -> oteody -> cheody -> okeody -> sheol -> odees -> ecsy -> ykeor -> opals -> ykeody -> ypaiin -> yfaiin -> ofcheesy -> oraiiny -> ykeeody

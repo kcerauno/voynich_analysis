@@ -1,0 +1,99 @@
+==================================================
+ Approach 3: W2V Clustering of Short Independent Words 
+==================================================
+Short (2-4 char), affix-free, frequent (>=3) words in W2V: 67
+
+--- Cluster Results (5 clusters) ---
+
+Cluster 0 (14 words):
+  do       (freq:   16, PCA: -1.35, +0.24)
+  sh       (freq:   15, PCA: -0.71, +0.50)
+  ctho     (freq:   15, PCA: -1.90, +0.10)
+  keeo     (freq:    9, PCA: -0.74, +0.18)
+  dsho     (freq:    9, PCA: -0.66, -0.03)
+  da       (freq:    9, PCA: -0.41, +0.23)
+  sos      (freq:    8, PCA: -0.68, +0.13)
+  ksho     (freq:    8, PCA: -0.87, +0.11)
+  tcho     (freq:    8, PCA: -0.85, -0.26)
+  dom      (freq:    7, PCA: -0.54, +0.14)
+  kcho     (freq:    6, PCA: -0.53, +0.00)
+  ycho     (freq:    5, PCA: -0.37, -0.11)
+  dcho     (freq:    5, PCA: -0.34, -0.08)
+  cth      (freq:    5, PCA: -0.68, -0.10)
+
+Cluster 1 (39 words):
+  ok       (freq:    7, PCA: +0.40, +0.05)
+  alom     (freq:    6, PCA: +0.28, +0.14)
+  yto      (freq:    5, PCA: -0.14, -0.16)
+  so       (freq:    5, PCA: -0.00, -0.30)
+  od       (freq:    5, PCA: -0.01, +0.03)
+  oro      (freq:    5, PCA: +0.14, -0.26)
+  orom     (freq:    5, PCA: +0.17, +0.03)
+  tsho     (freq:    5, PCA: -0.06, -0.30)
+  olo      (freq:    5, PCA: -0.05, -0.16)
+  yk       (freq:    5, PCA: +0.15, +0.07)
+  los      (freq:    5, PCA: +0.42, -0.13)
+  ch       (freq:    5, PCA: +0.30, +0.00)
+  lom      (freq:    5, PCA: +0.72, -0.09)
+  sa       (freq:    4, PCA: +0.07, -0.28)
+  ckho     (freq:    4, PCA: -0.26, -0.04)
+  cto      (freq:    4, PCA: -0.19, -0.26)
+  tod      (freq:    4, PCA: -0.13, -0.33)
+  als      (freq:    4, PCA: +0.51, -0.18)
+  cs       (freq:    4, PCA: +0.24, +0.03)
+  rom      (freq:    4, PCA: +0.37, -0.62)
+  keo      (freq:    4, PCA: -0.07, -0.11)
+  tos      (freq:    4, PCA: +0.30, -0.49)
+  ld       (freq:    4, PCA: +0.65, -0.28)
+  kas      (freq:    4, PCA: +0.51, -0.02)
+  kos      (freq:    3, PCA: -0.25, -0.37)
+  sols     (freq:    3, PCA: +0.23, -0.42)
+  ysho     (freq:    3, PCA: -0.05, -0.22)
+  oeeo     (freq:    3, PCA: -0.02, -0.50)
+  olom     (freq:    3, PCA: +0.69, -0.50)
+  ykeo     (freq:    3, PCA: +0.32, -0.33)
+  yd       (freq:    3, PCA: -0.10, -0.46)
+  ald      (freq:    3, PCA: +0.20, -0.35)
+  aiis     (freq:    3, PCA: +0.34, -0.22)
+  old      (freq:    3, PCA: +0.26, -0.25)
+  lkeo     (freq:    3, PCA: +0.22, -0.00)
+  alo      (freq:    3, PCA: +0.42, -0.08)
+  lko      (freq:    3, PCA: +0.49, -0.33)
+  aiim     (freq:    3, PCA: +0.23, -0.18)
+  lcho     (freq:    3, PCA: +0.46, -0.39)
+
+Cluster 2 (11 words):
+  os       (freq:   29, PCA: -0.56, +1.00)
+  om       (freq:   22, PCA: -0.09, +0.67)
+  ols      (freq:   18, PCA: -0.08, +0.67)
+  ro       (freq:   10, PCA: -0.05, +0.23)
+  ot       (freq:   10, PCA: +0.27, +0.52)
+  ls       (freq:   10, PCA: +0.49, +0.53)
+  oees     (freq:    9, PCA: -0.11, +0.35)
+  eees     (freq:    9, PCA: +0.33, +0.53)
+  aim      (freq:    7, PCA: -0.15, +0.11)
+  ees      (freq:    6, PCA: -0.19, +0.13)
+  as       (freq:    5, PCA: +0.03, +0.21)
+
+Cluster 3 (1 words):
+  am       (freq:   88, PCA: +1.19, +1.98)
+
+Cluster 4 (2 words):
+  qo       (freq:   29, PCA: +0.48, +0.01)
+  lo       (freq:   15, PCA: +1.33, +0.32)
+
+--- Astro candidate cluster IDs: set() ---
+>>> Astronomical candidates are spread across clusters.
+>>> They may not form a single semantic category, or the data is too sparse.
+
+--- Nearest neighbors of 'oto' (prime numeral candidate) ---
+  otaiir       (similarity: 0.993)
+  otchos       (similarity: 0.993)
+  shoar        (similarity: 0.992)
+  olkchey      (similarity: 0.992)
+  toar         (similarity: 0.992)
+  alody        (similarity: 0.992)
+  sodar        (similarity: 0.992)
+  ykair        (similarity: 0.992)
+  okcheey      (similarity: 0.992)
+  ofchy        (similarity: 0.992)

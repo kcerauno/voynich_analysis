@@ -1,0 +1,48 @@
+==================================================
+ 2. Core Text Extraction (Null Binding Reduction) 
+==================================================
+Hypothesis: Highly predictable, high-frequency affixes (like 'qo' or 'dy') are meaningless Nulls or structural scaffolding. If we strip them, what is the 'Core' vocabulary left behind?
+
+Total words analyzed: 37112
+Words completely annihilated into nothing (e.g., 'qody'): 2329 (6.3%)
+Words with a remaining 'Core Text': 34460
+
+--- The Top 25 Most Frequent 'Core' Stems ---
+If Voynichese is heavily encrypted with Null padding, these remaining stems are the true information.
+  o          (Count: 1435)
+  e          (Count: 1318)
+  ka         (Count: 1231)
+  a          (Count: 1195)
+  dai        (Count: 1108)
+  ke         (Count: 990)
+  da         (Count: 970)
+  ai         (Count: 849)
+  eo         (Count: 715)
+  ta         (Count: 672)
+  kai        (Count: 626)
+  k          (Count: 537)
+  kee        (Count: 535)
+  te         (Count: 498)
+  ko         (Count: 396)
+  t          (Count: 361)
+  to         (Count: 356)
+  kch        (Count: 329)
+  tai        (Count: 324)
+  ckh        (Count: 322)
+  keo        (Count: 321)
+  tch        (Count: 289)
+  do         (Count: 247)
+  ee         (Count: 232)
+  tee        (Count: 201)
+
+--- Long Core Stems (Length >= 4) ---
+  lche            (Count: 194)
+  keeo            (Count: 166)
+  tcho            (Count: 155)
+  kcho            (Count: 154)
+  pche            (Count: 132)
+  lkee            (Count: 109)
+  kche            (Count: 106)
+  tche            (Count: 100)
+  eckh            (Count: 100)
+  lkai            (Count: 90)

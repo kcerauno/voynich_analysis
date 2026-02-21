@@ -1,0 +1,20 @@
+==================================================
+ 1. Paragraph Position & Gallows Character Analysis 
+==================================================
+Total Gallows Characters (p, t, k, f): 20013
+
+--- Distribution ---
+Total 'First Lines' analyzed: 223
+Total 'Other Lines' analyzed: 4984
+
+Gallows on First Lines:  1346 (6.7%)
+Gallows on Other Lines: 18667 (93.3%)
+
+--- Density (Gallows per Line) ---
+Average Gallows per 'First Line':  6.04 characters
+Average Gallows per 'Other Line':  3.75 characters
+
+>>> Density Ratio: A 'First Line' has 1.6x more gallows characters than a normal line.
+
+--- Conclusion ---
+WEAK/NO CORRELATION: Gallows characters are relatively evenly distributed. They likely function as standard letters within the text.

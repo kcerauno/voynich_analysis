@@ -1,0 +1,50 @@
+==================================================
+ Voynich Line Positional Analysis 
+==================================================
+
+--- Prefix Distribution by Line Position ---
+
+Position: FIRST (Total words: 5207)
+   None:  35.0%
+     qo:  10.2%
+      o:  10.1%
+      s:   9.2%
+      d:   7.4%
+
+Position: MIDDLE (Total words: 28286)
+   None:  20.6%
+     ch:  18.4%
+     qo:  15.5%
+     sh:  10.1%
+      o:   9.0%
+
+Position: LAST (Total words: 4393)
+   None:  26.6%
+     ch:  13.4%
+      o:  12.6%
+     da:  11.6%
+     qo:   7.6%
+
+
+--- Suffix Distribution by Line Position ---
+
+Position: FIRST (Total words: 5207)
+     in:  17.1%
+   None:  15.0%
+     dy:  13.1%
+      r:  12.1%
+      y:  11.5%
+
+Position: MIDDLE (Total words: 28286)
+     dy:  18.9%
+     in:  15.6%
+     ey:  11.8%
+      y:  11.6%
+   None:  10.2%
+
+Position: LAST (Total words: 4393)
+   None:  25.9%
+      y:  19.5%
+     dy:  15.7%
+     in:  13.8%
+      l:   6.6%

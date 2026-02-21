@@ -1,0 +1,57 @@
+==================================================
+ 3. Distance and Periodicity Analysis 
+==================================================
+Total words in unbroken stream: 37886
+
+--- Analysis for: starts_qo ---
+Total occurrences: 5259
+Average distance: 7.2 words
+Median distance: 4.0 words
+Top 5 exact intervals (Distance -> Count):
+  Every 1 words -> happened 1001 times
+  Every 2 words -> happened 854 times
+  Every 3 words -> happened 561 times
+  Every 4 words -> happened 427 times
+  Every 5 words -> happened 371 times
+  * Note: Occurs consecutively (echoes itself) 1001 times!
+
+--- Analysis for: ends_dy ---
+Total occurrences: 6718
+Average distance: 5.6 words
+Median distance: 3.0 words
+Top 5 exact intervals (Distance -> Count):
+  Every 1 words -> happened 1952 times
+  Every 2 words -> happened 1086 times
+  Every 3 words -> happened 762 times
+  Every 4 words -> happened 535 times
+  Every 5 words -> happened 432 times
+  * Note: Occurs consecutively (echoes itself) 1952 times!
+
+--- Analysis for: ends_y ---
+Total occurrences: 15414
+Average distance: 2.5 words
+Median distance: 2.0 words
+Top 5 exact intervals (Distance -> Count):
+  Every 1 words -> happened 7055 times
+  Every 2 words -> happened 3497 times
+  Every 3 words -> happened 1859 times
+  Every 4 words -> happened 1079 times
+  Every 5 words -> happened 665 times
+  * Note: Occurs consecutively (echoes itself) 7055 times!
+
+--- Analysis for: contains_ch ---
+Total occurrences: 10674
+Average distance: 3.5 words
+Median distance: 2.0 words
+Top 5 exact intervals (Distance -> Count):
+  Every 1 words -> happened 3380 times
+  Every 2 words -> happened 2257 times
+  Every 3 words -> happened 1456 times
+  Every 4 words -> happened 1004 times
+  Every 5 words -> happened 640 times
+  * Note: Occurs consecutively (echoes itself) 3380 times!
+
+--- Conclusion ---
+If the top interval is highly dominant (e.g., 'every 2 words'), the text is highly mechanical or rhythmic.
+Natural languages have an exponential decay in distance (distance 1 or 2 is common, trailing off).
+If we see spikes at distances like 4, 5, or 6, it implies a rigid cipher structure or musical meter.

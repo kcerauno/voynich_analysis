@@ -1,0 +1,83 @@
+==============================================================
+ 7. Information Entropy Change Point Analysis 
+==============================================================
+Total word stream length: 37112
+Total page boundaries: 225
+
+--- Entropy Change Points (Window=50, Step=25) ---
+Large jumps indicate topic/section boundaries.
+
+Rank |  WordPos |  Delta |  Before |   After |       Page | Category
+--------------------------------------------------------------------------------
+   1 |    25250 |  0.65 |   5.23 |   4.58 |       f75r | biological
+   2 |     6000 |  0.54 |   5.28 |   4.74 |      f108r | textonly
+   3 |    27250 |  0.54 |   5.03 |   4.49 |       f77v | biological
+   4 |    33325 |  0.53 |   4.94 |   5.47 |      f86v5 | cosmological
+   5 |    17075 |  0.53 |   5.56 |   5.04 |       f40r | herbal
+   6 |    20025 |  0.52 |   4.83 |   5.35 |       f54r | herbal
+   7 |    14300 |  0.51 |   4.86 |   5.37 |       f25v | herbal
+   8 |    27275 |  0.51 |   4.49 |   5.00 |       f77v | biological
+   9 |     5550 |  0.50 |   4.89 |   5.39 |      f107v | textonly
+  10 |    26900 |  0.49 |   5.31 |   4.81 |       f77r | biological
+  11 |      375 |  0.49 |   5.00 |   5.48 |      f101r | pharmaceutical
+  12 |    28625 |  0.49 |   4.94 |   5.43 |       f79v | biological
+  13 |    27100 |  0.48 |   5.00 |   5.48 |       f77r | biological
+  14 |    34275 |  0.48 |   5.00 |   5.48 |       f88r | pharmaceutical
+  15 |     5900 |  0.47 |   5.05 |   5.52 |      f108r | textonly
+  16 |    25725 |  0.46 |   5.41 |   4.95 |       f75v | biological
+  17 |    13350 |  0.46 |   5.11 |   5.56 |        f1v | herbal
+  18 |    29800 |  0.45 |   5.28 |   4.83 |       f81r | biological
+  19 |    14250 |  0.42 |   5.32 |   4.90 |       f25r | herbal
+  20 |    35325 |  0.42 |   4.98 |   5.40 |        f8v | herbal
+
+--- Words Concentrated Near Entropy Spikes ---
+(Words that appear primarily at topic boundaries = chapter titles/section markers)
+
+Word           | At Spikes |  Total |  Spike%
+---------------------------------------------
+ol             |         4 |    538 |    0.7%
+daiin          |         4 |    864 |    0.5%
+ykaiin         |         2 |     45 |    4.4%
+olchedy        |         2 |     38 |    5.3%
+qokedy         |         2 |    272 |    0.7%
+chedy          |         2 |    501 |    0.4%
+checkhy        |         2 |     47 |    4.3%
+lchedy         |         2 |    119 |    1.7%
+okal           |         2 |    138 |    1.4%
+qokar          |         2 |    152 |    1.3%
+dshor          |         2 |     14 |   14.3%
+chdy           |         2 |    152 |    1.3%
+shey           |         2 |    283 |    0.7%
+qokain         |         2 |    279 |    0.7%
+ar             |         2 |    352 |    0.6%
+okar           |         2 |    129 |    1.6%
+dar            |         2 |    319 |    0.6%
+qokeey         |         2 |    308 |    0.6%
+qokey          |         2 |    107 |    1.9%
+ykeey          |         1 |     58 |    1.7%
+
+--- Per-Page Entropy Summary ---
+
+Most REPETITIVE pages (lowest entropy):
+  f25v       [herbal         ] Entropy: 4.94 (54 words)
+  f10v       [herbal         ] Entropy: 4.98 (53 words)
+  f38r       [herbal         ] Entropy: 4.98 (40 words)
+  f5v        [herbal         ] Entropy: 4.99 (45 words)
+  f11r       [herbal         ] Entropy: 5.08 (54 words)
+  f90r2      [herbal         ] Entropy: 5.10 (45 words)
+  f38v       [herbal         ] Entropy: 5.14 (58 words)
+  f21v       [herbal         ] Entropy: 5.14 (53 words)
+  f25r       [herbal         ] Entropy: 5.18 (46 words)
+  f11v       [herbal         ] Entropy: 5.22 (47 words)
+
+Most DIVERSE pages (highest entropy):
+  f58r       [cosmological   ] Entropy: 7.90 (361 words)
+  f106r      [textonly       ] Entropy: 7.90 (420 words)
+  f107r      [textonly       ] Entropy: 7.92 (484 words)
+  f115r      [textonly       ] Entropy: 7.96 (441 words)
+  f106v      [textonly       ] Entropy: 7.96 (448 words)
+  f104v      [textonly       ] Entropy: 7.97 (452 words)
+  f114r      [textonly       ] Entropy: 8.02 (443 words)
+  f104r      [textonly       ] Entropy: 8.04 (433 words)
+  f115v      [textonly       ] Entropy: 8.12 (398 words)
+  f113r      [textonly       ] Entropy: 8.22 (513 words)

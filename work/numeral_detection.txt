@@ -1,0 +1,91 @@
+==================================================
+ Numeral Detection: Astronomical Page Analysis 
+==================================================
+
+Available categories: ['textonly', 'herbal', 'cosmological', 'astronomical', 'astrology', 'biological', 'pharmaceutical']
+  textonly: 11238 words
+  herbal: 11385 words
+  cosmological: 3606 words
+  astronomical: 846 words
+  astrology: 1329 words
+  biological: 6915 words
+  pharmaceutical: 2567 words
+
+Target categories (potential numerical context): ['cosmological', 'astronomical', 'astrology']
+Non-target categories: ['textonly', 'herbal', 'biological', 'pharmaceutical']
+
+Total unique words in Astronomical pages: 2463
+Total unique words in Non-Astronomical pages: 6758
+
+--- Words EXCLUSIVE to Astronomical/Zodiac pages (count >= 2) ---
+  okalar      : 6 occurrences (ONLY in astronomical pages)
+  oteotey     : 4 occurrences (ONLY in astronomical pages)
+  arary       : 3 occurrences (ONLY in astronomical pages)
+  otalal      : 3 occurrences (ONLY in astronomical pages)
+  okalody     : 3 occurrences (ONLY in astronomical pages)
+  oreeey      : 3 occurrences (ONLY in astronomical pages)
+  aldaiin     : 3 occurrences (ONLY in astronomical pages)
+  okeodar     : 3 occurrences (ONLY in astronomical pages)
+  otoar       : 3 occurrences (ONLY in astronomical pages)
+  chedaly     : 3 occurrences (ONLY in astronomical pages)
+  cheteey     : 3 occurrences (ONLY in astronomical pages)
+  olchear     : 2 occurrences (ONLY in astronomical pages)
+  cholar      : 2 occurrences (ONLY in astronomical pages)
+  oteom       : 2 occurrences (ONLY in astronomical pages)
+  chepchey    : 2 occurrences (ONLY in astronomical pages)
+  tcheos      : 2 occurrences (ONLY in astronomical pages)
+  oteeoaly    : 2 occurrences (ONLY in astronomical pages)
+  qokalor     : 2 occurrences (ONLY in astronomical pages)
+  ykeeshy     : 2 occurrences (ONLY in astronomical pages)
+  alols       : 2 occurrences (ONLY in astronomical pages)
+  ypal        : 2 occurrences (ONLY in astronomical pages)
+  salal       : 2 occurrences (ONLY in astronomical pages)
+  qoeear      : 2 occurrences (ONLY in astronomical pages)
+  alos        : 2 occurrences (ONLY in astronomical pages)
+  cheockhey   : 2 occurrences (ONLY in astronomical pages)
+  sheoltey    : 2 occurrences (ONLY in astronomical pages)
+  otolam      : 2 occurrences (ONLY in astronomical pages)
+  okcheo      : 2 occurrences (ONLY in astronomical pages)
+  oteeys      : 2 occurrences (ONLY in astronomical pages)
+  okolar      : 2 occurrences (ONLY in astronomical pages)
+
+--- Words HEAVILY SKEWED toward Astronomical pages (>=70%, count >= 5) ---
+  okalar      :    6 astro /    0 other = 100% astronomical
+  alar        :    5 astro /    1 other = 83% astronomical
+  dalar       :    4 astro /    1 other = 80% astronomical
+  alal        :    4 astro /    1 other = 80% astronomical
+  chekchy     :    4 astro /    1 other = 80% astronomical
+  qopar       :    4 astro /    1 other = 80% astronomical
+  otodaiin    :    4 astro /    1 other = 80% astronomical
+  otees       :    8 astro /    2 other = 80% astronomical
+  okeos       :   11 astro /    3 other = 79% astronomical
+  oteos       :   22 astro /    7 other = 76% astronomical
+  oteodar     :    5 astro /    2 other = 71% astronomical
+  choteey     :    5 astro /    2 other = 71% astronomical
+  oto         :    7 astro /    3 other = 70% astronomical
+  oteeos      :    7 astro /    3 other = 70% astronomical
+
+--- SHORT (2-4 chars) NUMERAL CANDIDATES ---
+(Short, astronomical-exclusive or skewed words are prime numeral candidates)
+  oto     : 7 astro / 3 other (70%) [SKEWED]
+  alar    : 5 astro / 1 other (83%) [SKEWED]
+  alal    : 4 astro / 1 other (80%) [SKEWED]
+  ypal    : 2 astro / 0 other (100%) [EXCLUSIVE]
+  alos    : 2 astro / 0 other (100%) [EXCLUSIVE]
+  ofor    : 2 astro / 0 other (100%) [EXCLUSIVE]
+  kshd    : 2 astro / 0 other (100%) [EXCLUSIVE]
+  osar    : 2 astro / 0 other (100%) [EXCLUSIVE]
+  yly     : 2 astro / 0 other (100%) [EXCLUSIVE]
+  eody    : 2 astro / 0 other (100%) [EXCLUSIVE]
+
+--- Per-Page Distribution of Top Astronomical-Exclusive Words ---
+  okalar      : pages -> f58v(1), f67r2(1), f71v(1), f72r2(1), f72r3(1)
+  oteotey     : pages -> f68v1(1), f70v2(1), f71r(1), f72v2(1)
+  arary       : pages -> f58r(2), f72r3(1)
+  otalal      : pages -> f58r(1), f70v2(1), f72v1(1)
+  okalody     : pages -> f58r(1), f68v3(1), f71r(1)
+  oreeey      : pages -> f58v(1), f72v3(1), f86v6(1)
+  aldaiin     : pages -> f58v(1), f67r2(1), f70r2(1)
+  okeodar     : pages -> f71r(2), f69r(1)
+  otoar       : pages -> f69v(1), f72r2(1), f73v(1)
+  chedaly     : pages -> f67v1(1), f73r(1), f86v3(1)

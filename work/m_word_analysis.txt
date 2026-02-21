@@ -1,0 +1,67 @@
+==================================================
+ Deep Dive Analysis: The 'm'-ending Words 
+==================================================
+Total valid words (len>=3): 34812
+Total 'm'-ending words found: 935
+Percentage of total words: 2.69%
+
+--- Top 20 'm'-Words ---
+  dam         Count: 98
+  otam        Count: 47
+  okam        Count: 26
+  qokam       Count: 25
+  cham        Count: 20
+  chom        Count: 15
+  ram         Count: 14
+  ytam        Count: 13
+  aram        Count: 12
+  qotam       Count: 12
+  daim        Count: 11
+  sam         Count: 10
+  cheom       Count: 10
+  oram        Count: 10
+  chdam       Count: 10
+  cthom       Count: 9
+  kam         Count: 9
+  olkam       Count: 9
+  alam        Count: 8
+  okom        Count: 7
+
+--- Distribution by Category ---
+  herbal         :  338 (36.1%)
+  textonly       :  279 (29.8%)
+  cosmological   :  137 (14.7%)
+  pharmaceutical :   70 (7.5%)
+  biological     :   62 (6.6%)
+  astrology      :   35 (3.7%)
+  astronomical   :   14 (1.5%)
+
+--- Distribution by Language ---
+  B              :  510 (54.5%)
+  A              :  340 (36.4%)
+
+--- Distribution by Line Position ---
+  Last           :  615 (65.8%)
+  Middle         :  265 (28.3%)
+  First          :   55 (5.9%)
+
+--- Top 15 Pages with 'm'-Words ---
+  Page f58r      : 27 occurrences
+  Page f3r       : 23 occurrences
+  Page f111r     : 21 occurrences
+  Page f116r     : 20 occurrences
+  Page f86v5     : 18 occurrences
+  Page f108r     : 18 occurrences
+  Page f108v     : 17 occurrences
+  Page f113v     : 16 occurrences
+  Page f58v      : 15 occurrences
+  Page f104r     : 15 occurrences
+  Page f86v6     : 14 occurrences
+  Page f115v     : 14 occurrences
+  Page f85r1     : 13 occurrences
+  Page f89r1     : 13 occurrences
+  Page f112r     : 13 occurrences
+
+--- Context: Examples of 'am' vs 'om' ---
+  Words ending in '-am': 668
+  Words ending in '-om': 173

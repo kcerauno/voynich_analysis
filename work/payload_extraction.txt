@@ -1,0 +1,95 @@
+================================================================
+ CONTAINER-PAYLOAD DECOMPOSITION OF THE VOYNICH MANUSCRIPT 
+================================================================
+
+--- 1. Decomposition Statistics ---
+Total words in manuscript: 37886
+  PAYLOAD (Core extracted):   36524 (96.4%)
+  PURE CONTAINER (markers):    1362 (3.6%)
+  ANNIHILATED (all padding):      0 (0.0%)
+
+--- 2. Compression Ratio ---
+Original total characters: 191547
+Payload total characters:  114382
+Compression ratio: 59.7% (payload is 59.7% of original)
+Container overhead: 40.3%
+
+--- 3. Information Content (Shannon Entropy) ---
+Original word-level entropy:  10.45 bits
+Payload word-level entropy:   8.84 bits
+Original char-level entropy:  3.86 bits
+Payload char-level entropy:   3.69 bits
+
+Total information (word-level):
+  Original: 10.45 * 37886 = 396074 bits
+  Payload:  8.84 * 36524 = 322963 bits
+  Ratio: 81.5% of original information retained in payload
+
+--- 4. Top 30 Payload Cores (The Hidden Message Vocabulary) ---
+Unique payload types: 5563 (vs 8079 original)
+   1. e         2637 ##################################################
+   2. ol        1531 ##################################################
+   3. ai        1267 ##################################################
+   4. dai        925 ##################################################
+   5. y          890 ##################################################
+   6. ey         881 ##################################################
+   7. ee         863 ##################################################
+   8. a          722 ##################################################
+   9. al         663 ##################################################
+  10. ar         636 ##################################################
+  11. o          568 ##################################################
+  12. dy         497 ##################################################
+  13. or         492 ##################################################
+  14. eol        477 ##################################################
+  15. eo         415 ##################################################
+  16. dar        371 ##################################################
+  17. dal        312 ##################################################
+  18. l          290 ##################################################
+  19. ch         270 ##################################################
+  20. ckhy       259 ##################################################
+  21. da         249 #################################################
+  22. chy        228 #############################################
+  23. cthy       228 #############################################
+  24. eor        216 ###########################################
+  25. d          200 ########################################
+  26. r          150 ##############################
+  27. air        148 #############################
+  28. sai        147 #############################
+  29. lche       147 #############################
+  30. eeo        146 #############################
+
+--- 5. Payload Core Length Distribution ---
+  1 chars:  5683 ( 15.6%) ###############
+  2 chars:  9598 ( 26.3%) ##########################
+  3 chars:  8101 ( 22.2%) ######################
+  4 chars:  5992 ( 16.4%) ################
+  5 chars:  3911 ( 10.7%) ##########
+  6 chars:  1824 (  5.0%) ####
+  7 chars:   856 (  2.3%) ##
+  8 chars:   369 (  1.0%) #
+  9 chars:   133 (  0.4%) 
+  10 chars:    43 (  0.1%) 
+  11 chars:    10 (  0.0%) 
+  12 chars:     1 (  0.0%) 
+  13 chars:     2 (  0.0%) 
+  14 chars:     1 (  0.0%) 
+
+--- 6. Payload Entropy by Category ---
+  herbal         : 10972 cores, 2288 unique, H=8.54
+  textonly       : 10828 cores, 2234 unique, H=8.35
+  biological     :  6790 cores, 1062 unique, H=7.08
+  pharmaceutical :  2483 cores,  810 unique, H=7.85
+  cosmological   :  3389 cores, 1122 unique, H=8.40
+  astronomical   :   818 cores,  500 unique, H=8.34
+  astrology      :  1244 cores,  616 unique, H=8.24
+
+--- 7. Payload: Language A vs B ---
+  Language A: 11043 cores, H=8.57
+    Top: ol(695), dai(528), y(395), or(338), o(293)
+  Language B: 22550 cores, H=8.29
+    Top: e(2312), ai(966), ee(812), ol(758), a(668)
+
+--- 8. Most Common ANNIHILATED Words (100% Container) ---
+
+--- 9. First 200 Payload Cores (The 'Decrypted' Stream) ---
+osaroshol sochorcfhy ear ofary sar ar daiin osaro alsa soity sos dakocth sofal pcheol eod cpheeckhy odol cthdaoto ch qeos e cthso dsheor cth e e ykeeoda sorary dai dai deeamshol or ke e eo eold eol so rai al ykecho dcheor ol eeol or ol eeo dorean eeos ockh orol olche eol ols folsho ol dai fchodycheol cphol ees ey oreso alcfhy soi ol cphol ol ol ckhol or ol o ke cckhhy ykee saiichor eor ckho odeor ykshe ol eo sai eol rai eor qkeeo ol dai ctheol olcheol eky eol eockhy eol yai eke ol olo os olchor eol eeol eols ol eol o ckheo olch tolchd ols opchor rolsy sol eesos ykchoch ykch dch dalsy cheor ytchol dykchal os cthoral cthdeecthy eocphy eo ckhoor or e dai omo sor e dair ol eol olke ol e eol otols ykeeol ol ey eeoseeos eeo eol es eor eol dy ockh olkcheol eol ol ol otor so solcthy tocheo sol eo eeor odai ckhod sh od eol sal sa eokeos ockhy octh kcho ockhhor ckh dan ycheoky okeesy e okeol soraloaly eor ol ockhar soral or ol oy ly araroy ar eeeal eokeol or dai eky ory pcheol

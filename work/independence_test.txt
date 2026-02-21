@@ -1,0 +1,55 @@
+================================================================
+ CONTAINER-PAYLOAD INDEPENDENCE TEST 
+================================================================
+Total decomposed words: 37112
+
+--- 1. Component Entropies ---
+  H(Prefix):    2.35 bits
+  H(Core):      8.77 bits
+  H(Suffix):    1.73 bits
+  H(Container): 4.05 bits [prefix+suffix combined]
+
+--- 2. Conditional Entropies ---
+  H(Core|Prefix):     7.80 (vs H(Core)=8.77)
+  H(Core|Suffix):     7.41 (vs H(Core)=8.77)
+  H(Core|Container):  6.42 (vs H(Core)=8.77)
+  H(Prefix|Core):     1.37 (vs H(Prefix)=2.35)
+  H(Suffix|Core):     0.36 (vs H(Suffix)=1.73)
+  H(Container|Core):  1.69 (vs H(Container)=4.05)
+  H(Suffix|Prefix):   1.70 (vs H(Suffix)=1.73)
+
+--- 3. Mutual Information (Dependency Strength) ---
+  I(Core; Prefix):    0.976 bits
+  I(Core; Suffix):    1.368 bits
+  I(Core; Container): 2.359 bits
+  I(Prefix; Suffix):  0.035 bits
+
+  Normalized MI (0=independent, 1=fully determined):
+  NMI(Core; Prefix):    0.4156
+  NMI(Core; Suffix):    0.7895
+  NMI(Core; Container): 0.5828
+  NMI(Prefix; Suffix):  0.0200
+
+--- 4. Top Core-Container Associations ---
+(Which cores are most 'bound' to specific containers?)
+  Core 'e' (n=2634, H_container=3.52): ch+dy(501,19%) | sh+dy(427,16%) | qok+ey(308,12%)
+  Core 'ol' (n=1531, H_container=2.70): [NONE]+[NONE](538,35%) | ch+[NONE](397,26%) | sh+[NONE](187,12%)
+  Core 'ai' (n=1267, H_container=2.44): [NONE]+in(470,37%) | qok+in(262,21%) | ok+in(212,17%)
+  Core 'ar' (n=988, H_container=2.76): [NONE]+[NONE](352,36%) | qok+[NONE](152,15%) | ot+[NONE](141,14%)
+  Core 'dai' (n=925, H_container=0.42): [NONE]+in(864,93%) | qo+in(42,5%) | ch+in(16,2%)
+  Core 'al' (n=923, H_container=2.92): [NONE]+[NONE](260,28%) | qok+[NONE](191,21%) | ot+[NONE](143,15%)
+  Core 'ey' (n=881, H_container=2.12): ch+[NONE](344,39%) | sh+[NONE](283,32%) | qok+[NONE](107,12%)
+  Core 'ee' (n=863, H_container=3.11): qok+dy(305,35%) | ok+dy(105,12%) | ot+dy(100,12%)
+  Core 'or' (n=858, H_container=2.41): [NONE]+[NONE](366,43%) | ch+[NONE](220,26%) | sh+[NONE](97,11%)
+  Core 'y' (n=739, H_container=2.80): ch+[NONE](155,21%) | qok+[NONE](147,20%) | ot+[NONE](115,16%)
+  Core 'a' (n=719, H_container=2.48): qok+in(279,39%) | ok+in(144,20%) | ot+in(96,13%)
+  Core 'dy' (n=497, H_container=1.65): [NONE]+[NONE](271,55%) | ch+[NONE](152,31%) | sh+[NONE](46,9%)
+  Core 'o' (n=486, H_container=3.14): sh+[NONE](130,27%) | ch+dy(94,19%) | ch+[NONE](69,14%)
+  Core 'eol' (n=477, H_container=2.48): ch+[NONE](173,36%) | sh+[NONE](114,24%) | ok+[NONE](66,14%)
+  Core 'eo' (n=415, H_container=3.28): ch+dy(89,21%) | ch+[NONE](65,16%) | sh+dy(50,12%)
+
+--- 5. Sequential Container Dependency ---
+  H(CurrentContainer):                4.05 bits
+  H(CurrentContainer|PrevContainer):   3.92 bits
+  MI(PrevContainer; CurrentContainer):  0.128 bits
+  Reduction: 3.2%

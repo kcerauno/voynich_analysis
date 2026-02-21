@@ -1,0 +1,29 @@
+==================================================
+ Voynich Unbound Roots (V-Words) Analysis 
+==================================================
+Total valid words analyzed (length >= 3): 34812
+Total 'Unbound' words found: 916
+Percentage of words that defy standard affix rules: 2.63%
+
+--- Top 20 Most Frequent Unbound Words ---
+These words might be the true 'content' vocabulary (names/nouns) rather than grammatical/cipher constructs:
+  ycheo      (Count: 15)
+  ram        (Count: 14)
+  ytam       (Count: 13)
+  aram       (Count: 12)
+  keeo       (Count: 9)
+  eees       (Count: 9)
+  kam        (Count: 9)
+  ksho       (Count: 8)
+  tcho       (Count: 8)
+  alam       (Count: 8)
+  ycheeo     (Count: 8)
+  tcheo      (Count: 7)
+  ykeeo      (Count: 7)
+  aim        (Count: 7)
+  lkam       (Count: 7)
+  kcho       (Count: 6)
+  ees        (Count: 6)
+  ykcho      (Count: 6)
+  alom       (Count: 6)
+  alkam      (Count: 6)
